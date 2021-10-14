@@ -9,7 +9,7 @@ sp = spotipy.Spotify(client_credentials_manager
 =
 client_credentials_manager)
 
-address_data = r'C:\Users\kelvi\OneDrive\Documentos\TCC\acoustic_data.csv'
+address_data = r'C:\Users\kelvi\OneDrive\Documentos\TCC\audio_features.csv'
 adress_wroted = r'C:\Users\kelvi\OneDrive\Documentos\TCC\lines_wroted.csv'
 adress_no_data = r'C:\Users\kelvi\OneDrive\Documentos\TCC\no_data.csv'
 
